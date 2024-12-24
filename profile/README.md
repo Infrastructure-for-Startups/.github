@@ -30,6 +30,7 @@ Why:
 * It focuses on incredibly easy extensibility
 * It doesn't couple you to any company or a services with unpredictable pricing
 * It's been built with documentation being the first class citizen
+* If you succeed, and you want to move to the giants, e.g. AWS, GCP, etc. you can do it easily
 
 
 <!--
