@@ -1,5 +1,22 @@
 Infrastructure for Startups
 
+```mermaid
+---
+config:
+  look: handDrawn
+  layout: elk
+  theme: neo
+---
+flowchart LR
+    A["Plan 📝"] --> B["Code 💻"]
+    B --> C["Build 🔧"]
+    C --> D["Test 🔄"]
+    D --> E["Release 🚀"]
+    E --> F["Deploy 📦"]
+    F --> G["Operate ⚙️"]
+    G --> H["Monitor 📊"]
+```
+
 This repository provides a scalable, extensible and incredibly cheap way to host your infrastructure anywhere on the web.
 
 Unlike recent, and traditional monolithic infrastructures that come with a lot of convinience, and are beginner friendly,
