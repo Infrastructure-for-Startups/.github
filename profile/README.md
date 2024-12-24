@@ -6,6 +6,14 @@ Unlike recent, and traditional monolithic infrastructures that come with a lot o
 this setup doesn't couple you to any company or a product, and keep you entirely decoupled from opinionated services,
 and unnecessary abstractions. 
 
+Why:
+
+* This setup is focued on [COGS](https://softwareequity.com/blog/cogs-in-saas/)
+* It focuses on incredibly easy extensibility
+* It doesn't couple you to any company or a services with unpredictable pricing
+* It's been built with documentation being the first class citizen
+
+
 <!--
 
 **Here are some ideas to get you started:**
