@@ -1,4 +1,10 @@
-## Hi there 👋
+Infrastructure for Startups
+
+This repository provides a scalable, extensible and incredibly cheap way to host your infrastructure anywhere on the web.
+
+Unlike recent, and traditional monolithic infrastructures that come with a lot of convinience, and are beginner friendly,
+this setup doesn't couple you to any company or a product, and keep you entirely decoupled from opinionated services,
+and unnecessary abstractions. 
 
 <!--
 
