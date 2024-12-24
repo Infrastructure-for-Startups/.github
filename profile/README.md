@@ -6,6 +6,7 @@ config:
   look: handDrawn
   layout: elk
   theme: neo
+  background: transparent
 ---
 flowchart LR
     A["Plan 📝"] --> B["Code 💻"]
